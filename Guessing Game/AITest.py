@@ -30,16 +30,15 @@ elif userInput == ("n") in proceed:
 else: print("What? i dont understand....")
 
 #asks user for command
-userInput = str(input("What would you like to do? ('go to ...'/'search ...'/'what is...'/'open ...')"))
+userInput = str(input("What would you like to do? ('go to ...'/'search ...'/'what is...'/'open ...')  >>"))
 
 if userInput == "go to":
     print("where do you want to go on your PC?    example>( C:\example )")
-    mydir = str(input("go to..   "))
-
+    mydir = str(input("go to..>> "))
 
 elif userInput == "search":
     print("what do you want to search on the Web?   example( www.google.com )")
-    userInput = str(input("search..   "))
+    userInput = str(input("search..>> "))
 
     url = userInput
     chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
@@ -49,10 +48,10 @@ elif userInput == "search":
 
 elif userInput == "What is":
     print("what is what?")
-    userInput = str(input("what is..   "))
+    userInput = str(input("what is..>> "))
 
 elif userInput == "open":
     print("open what on desktop?")
-    userInput = str(input("open..   "))
+    userInput = str(input("open..>> "))
 
 else: print("Huh?")
