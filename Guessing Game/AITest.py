@@ -36,15 +36,6 @@ if userInput == "go to":
     print("where do you want to go on your PC?    example>( C:\example )")
     mydir = str(input("go to..   "))
 
-    cur_path = (mydir)
-    open (cur_path)
-
-
-
-
-
-
-
 
 elif userInput == "search":
     print("what do you want to search on the Web?   example( www.google.com )")
