@@ -40,6 +40,8 @@ elif userInput == "search":
     print("what do you want to search on the Web?   example( www.google.com )")
     userInput = str(input("search..>> "))
 
+    
+
     url = userInput
     chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
     webbrowser.get(chrome_path).open(url)
