@@ -6,6 +6,7 @@ from tkinter import ttk
 
 def donothing():
    filewin = Toplevel(root)
+   filewin.geometry("150x100")
    button = Button(filewin, text="Do nothing button")
    button.pack()
    
