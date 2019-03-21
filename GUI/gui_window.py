@@ -3,40 +3,57 @@ import tkinter
 from tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
- 
-window = Tk()
-window.geometry("1080x720")
-window.title("Welcome to LikeGeeks app")
+
+def donothing():
+   filewin = Toplevel(root)
+   button = Button(filewin, text="Do nothing button")
+   button.pack()
+   
+root = Tk()
+root.geometry("1080x720")
+menubar = Menu(root)
+filemenu = Menu(menubar, tearoff=0)
+filemenu.add_command(label="New", command=donothing)
+filemenu.add_command(label="Open", command=donothing)
+filemenu.add_command(label="Save", command=donothing)
+filemenu.add_command(label="Save as...", command=donothing)
+filemenu.add_command(label="Close", command=donothing)
+
+filemenu.add_separator()
+
+filemenu.add_command(label="Exit", command=root.quit)
+menubar.add_cascade(label="File", menu=filemenu)
+editmenu = Menu(menubar, tearoff=0)
 
 
-menu = Menu(window)
-new_item = Menu(menu)
-new_item.add_command(label='New')
-new_item.add_separator()
-new_item.add_command(label='Edit')
-menu.add_cascade(label='File', menu=new_item) 
-window.config(menu=menu)
+
+editmenu.add_command(label="Undo", command=donothing)
+editmenu.add_separator()
+editmenu.add_command(label="Cut", command=donothing)
+editmenu.add_command(label="Copy", command=donothing)
+editmenu.add_command(label="Paste", command=donothing)
+editmenu.add_command(label="Delete", command=donothing)
+editmenu.add_command(label="Select All", command=donothing)
+
+menubar.add_cascade(label="Edit", menu=editmenu)
+helpmenu = Menu(menubar, tearoff=0)
 
 
-tab_control = ttk.Notebook(window)
+helpmenu.add_command(label="Help Index", command=donothing)
+helpmenu.add_command(label="About...", command=donothing)
+menubar.add_cascade(label="Help", menu=helpmenu)
+
+
+tab_control = ttk.Notebook(root)
 tab1 = ttk.Frame(tab_control)
 tab2 = ttk.Frame(tab_control)
 tab_control.add(tab1, text='First')
 tab_control.add(tab2, text='Second')
-lbl1 = Label(window, text="Hello page 1", font=("Arial Bold", 50))
-lbl1.grid(column=0, row=0)
-lbl2 = Label(window, text="Hello page 2", font=("Arial Bold", 50))
-lbl2.grid(column=0, row=0)
+lbl1 = Label(tab1, text= 'label 1', font=("Arial Bold", 20))
+lbl1.grid(column=0, row=0) 
+lbl2 = Label(tab2, text= 'label 2', font=("Arial Bold", 20))
+lbl2.grid(column=0, row=0) 
 tab_control.pack(expand=1, fill='both')
 
-
-  
-#essagebox.showinfo('Message title', 'Message content')
- 
-#btn = Button(window,text='Click here', command=clicked)
- 
-#btn.grid(column=0,row=0)
-
-
-
-window.mainloop()
+root.config(menu=menubar)
+root.mainloop()
