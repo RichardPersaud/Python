@@ -6,9 +6,10 @@ from tkinter import ttk
 
 def donothing():
    filewin = Toplevel(root)
-   filewin.geometry("150x100")
-   button = Button(filewin, text="Do nothing button")
+   filewin.geometry("400x100")
+   button = Button(filewin, text="Do nothing button (click to close)", command=root.quit)
    button.pack()
+
    
 root = Tk()
 root.geometry("1080x720")
