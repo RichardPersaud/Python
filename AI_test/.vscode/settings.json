@@ -1,9 +1,8 @@
 {
-    "python.linting.pylintEnabled": true,
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./GUI",
+        ".",
         "-p",
         "*test.py"
     ],
