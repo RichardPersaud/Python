@@ -3,8 +3,6 @@ import os
 import webbrowser
 import smtplib
 import requests
-import requests
-from pprint import pprint
 
 
 #clears console
@@ -35,7 +33,7 @@ elif userInput == ("n") in proceed:
 else: print("What? i dont understand....")
 
 #asks user for command
-userInput = str(input("What would you like to do? ('go to ...'/'search ...'/'what is...'/'open ...')  >>"))
+userInput = str(input("What would you like to do? ('go to .../search .../what is .../open .../weather ...')  >>"))
 
 if userInput == "go to":
     print("where do you want to go on your PC?    example>( C:\example )")
