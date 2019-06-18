@@ -2,7 +2,8 @@ import datetime
 import os
 import re
 import webbrowser
-import smtplib
+import smtplib 
+# smtp is for mail sending
 import requests
 
 import csv
