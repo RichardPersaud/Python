@@ -1,39 +1,117 @@
 import datetime
 import os
+import re
 import webbrowser
 import smtplib
 import requests
 
-
+import csv
 #clears console
 os.system('cls')
-userName = str(input('Hello My Name Is Alpha Index, whats yours? '))
 
-if userName == "richard":
-    print(f"Hello {userName}. Nice to meet you.")
-else: 
-    print("I dont Know you")
-    exit()
 
-userInput = str(input("Do you want to know the time? ( y or n)   "))
-proceed = "y" "n"
 
-if userInput == ("y") in proceed:
-    #clears console
-    os.system('cls')
-    currentDT = datetime.datetime.now()
-    print (f"The Date and Time is:  {currentDT}")
-    
+def login():
 
-elif userInput == ("n") in proceed:
-    #clears console
-    os.system('cls')
-    print("ok maybe next time then...")
+    print('Welcome My Name Is Alpha Index, Please sign in\n')
 
-else: print("What? i dont understand....")
+    with open('users.csv') as csvfile:
+        reader = csv.DictReader(csvfile)
+        database = []
+        for row in reader:
+            database.append(dict(username=row['username'],
+                                 password=row['password'],
+                                 function=row['function']))
+
+    loggedin = False
+
+    while not loggedin:
+
+        Username = input('Enter in your username: ')
+        Password = input('Enter in your password: ')
+
+        for row in database:
+            Username_File = row['username']
+            Password_File = row['password']
+            Function_File = row['function']
+
+            if (Username_File == Username and
+                Password_File == Password and
+                    Function_File == 'Guest'):
+                loggedin = True
+
+                print('\nSuccesfully logged in as a Guest.\n')
+
+            elif (Username_File == Username and
+                  Password_File == Password and
+                    Function_File == 'Admin'):
+                loggedin = True
+
+                print('\nSuccesfully logged in as a Admin.\n')
+
+        if loggedin is not True:
+            print ('\nFailed to sign in, wrong username or password.\n')
+
+            userin = str(input("Would you like guest access? (y or n) ")) 
+            if (userin == 'y'):
+                print('\nThe username is temp, and the password is pass\n')
+            else: quit()
+
+# ---- Main ---- #
+login()
+
+# def main():
+
+#     userName = True
+#     passWord = True
+
+#     while(userName == True and passWord == True):   
+
+#         userName = str(input('Hello My Name Is Alpha Index, whats yours? '))
+#         passWord = str(input('Enter your password:'))
+
+#         if userName == "richard" and passWord == "admin":
+#             print(f"Hello {userName}. Nice to meet you.")
+            
+#         else: 
+#             print("I dont Know you")
+#             print("Try loging in again!")
+#             userName = False
+#             passWord = False
+#             break
+
+# if __name__=='__main__':
+#     main()
+
+
+
+
+def main():
+    userInput = str(input("Do you want to know the time? ( y or n)  \n "))
+    proceed = "y" "n"
+
+    if userInput == ("y") in proceed:
+        #clears console
+        os.system('cls')
+        currentDT = datetime.datetime.now()
+        print (f"The Date and Time is:  {currentDT}")
+        
+
+    elif userInput == ("n") in proceed:
+        #clears console
+        os.system('cls')
+        print("ok maybe next time then...")
+
+    else: print("What? i dont understand....")
+
+if __name__=='__main__':
+        main()
+
+
+
 
 #asks user for command
-userInput = str(input("What would you like to do? ('go to .../search .../what is .../open .../weather ...')  >>"))
+userInput = str(input("What would you like to do? \n1. go to ...\n2. search ...\n3. what is ...\n4. open ...\n5. weather ...\n  \n>>"))
 
 if userInput == "go to":
     print("where do you want to go on your PC?    example>( C:\example )")
@@ -45,11 +123,11 @@ elif userInput == "search":
     print("what do you want to search on the Web?   example( www.google.com )")
     userInput = str(input("search..>> "))
 
-    #   searches the internet for the path your entering:
+    #   searches the internet for the path your entering
 
     url = userInput
     chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
-    webbrowser.get(chrome_path).open(url)
+    webbrowser.get(chrome_path).open('https://'+(url))
     print('Done!')
 
 
