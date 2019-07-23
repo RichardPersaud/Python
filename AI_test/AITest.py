@@ -119,7 +119,7 @@ if __name__=='__main__':
 
 def AskUser():
     #asks user for command
-    userInput = str(input("\nWhat would you like to do? \n1. go to ...\n2. search ...\n3. what is ...\n4. open ...\n5. weather ...\n  \n>>"))
+    userInput = str(input("\nWhat would you like to do? \n1. go to ...\n2. search ...\n3. what is ...\n4. open ...\n5. weather ...\n6. email ...  \n\n>>"))
 
     if userInput == "go to":
         print("where do you want to go on your PC?    example>( C:\example )")
@@ -193,6 +193,37 @@ def AskUser():
 
         if __name__=='__main__':
             main()
+
+
+    # elif userInput == 'email':
+    #         resip = print('Who is the recipient?')
+    #         if resip == 'richard':
+    #             content = print('What should I say?')
+
+    #             #init gmail SMTP
+    #             mail = smtplib.SMTP('smtp.gmail.com', 587)
+
+    #             #identify to server
+    #             mail.ehlo()
+
+    #             #encrypt session
+    #             mail.starttls()
+
+    #             password = print('Enter Password to send email')
+
+    #             #login
+    #             mail.login('richardpersaud2010@hotmail.com', password)
+
+    #             #send message
+    #             mail.sendmail('Richard Persaud', 'richardpersaud2010@hotmail.com', content)
+
+    #             #end mail connection
+    #             mail.close()
+
+    #             print('Email sent.')
+
+    #         else:
+    #             print('I don\'t know what you mean!')
 
     else: print("\nHuh?\n")
     AskUser()
