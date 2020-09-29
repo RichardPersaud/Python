@@ -1,1 +1,1 @@
-bin (Richard)
+print("Hello World")

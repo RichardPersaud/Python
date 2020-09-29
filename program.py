@@ -1,7 +1,7 @@
 from SimpleGame import GuessingGame
 
-#create a game object
+# create a game object
 game = GuessingGame()
 
-#play game
+# play game
 game.playGame()
