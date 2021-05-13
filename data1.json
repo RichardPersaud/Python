@@ -1,0 +1,61 @@
+[{
+    "Aid": 1,
+    "Anime_Name": "TEst",
+    "last_name": "Doe",
+    "email": "john@doe.com",
+    "salary": 1499.9,
+    "age": 17,
+    "is_real": false,
+    "titles": [
+        "The Unknown",
+        "Anonymous"
+    ]
+},  {
+    "Aid": 2,
+    "Anime_Name": "tmep",
+    "last_name": "Doe",
+    "email": "john@doe.com",
+    "salary": 1499.9,
+    "age": 17,
+    "is_real": false,
+    "titles": [
+        "The Unknown",
+        "Anonymous"
+    ]
+},  {
+    "Aid": 3,
+    "Anime_Name": "kik",
+    "last_name": "Doe",
+    "email": "john@doe.com",
+    "salary": 1499.9,
+    "age": 17,
+    "is_real": false,
+    "titles": [
+        "The Unknown",
+        "Anonymous"
+    ]
+},  {
+    "Aid": 4,
+    "Anime_Name": "sfds",
+    "last_name": "Doe",
+    "email": "john@doe.com",
+    "salary": 1499.9,
+    "age": 17,
+    "is_real": false,
+    "titles": [
+        "The Unknown",
+        "Anonymous"
+    ]
+},  {
+    "Aid": 5,
+    "Anime_Name": "dddd",
+    "last_name": "Doe",
+    "email": "john@doe.com",
+    "salary": 1499.9,
+    "age": 17,
+    "is_real": false,
+    "titles": [
+        "The Unknown",
+        "Anonymous"
+    ]
+}]

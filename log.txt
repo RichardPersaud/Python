@@ -1,0 +1,1002 @@
+Log:2020-09-21 15:58:00.843920: User: open website Google 
+Log:2020-09-21 15:58:02.799559: System: opening Google.... 
+Log:2020-09-21 15:58:10.296823: User: search website Discord 
+Log:2020-09-21 15:58:12.412522: System: searching for Discord 
+Log:2020-09-21 15:58:19.152552: User: search website Prime video 
+Log:2020-09-21 15:58:21.217973: System: searching for Prime 
+Log:2020-09-21 15:58:36.693919: User: search website Prime video 
+Log:2020-09-21 15:58:38.760816: System: searching for Prime 
+Log:2020-09-21 15:58:47.573498: User: search website Amazon Prime 
+Log:2020-09-21 15:58:49.759500: System: searching for Amazon 
+Log:2020-09-21 15:59:03.018865: User: search website stackoverflow 
+Log:2020-09-21 15:59:05.501430: System: searching for stackoverflow 
+Log:2020-09-21 15:59:20.340796: User: search website Microsoft 
+Log:2020-09-21 15:59:22.651596: System: searching for Microsoft 
+Log:2020-09-21 15:59:33.738491: User: website Sony 
+Log:2020-09-21 15:59:37.672074: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 15:59:47.671663: User: search website Sony 
+Log:2020-09-21 15:59:49.680931: System: searching for Sony 
+Log:2020-09-21 16:00:33.636157: System: Sorry, i could not understand 
+Log:2020-09-21 16:00:48.696941: User: search website python 
+Log:2020-09-21 16:00:50.845597: System: searching for python 
+Log:2020-09-21 16:01:11.399267: User: search website Sheridan 
+Log:2020-09-21 16:01:13.546210: System: searching for Sheridan 
+Log:2020-09-21 16:01:30.092604: User: search websites learning.com 
+Log:2020-09-21 16:01:34.028442: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:01:39.827076: User: Sheridan College 
+Log:2020-09-21 16:01:43.765217: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:02:21.292436: User: fix it 
+Log:2020-09-21 16:02:25.277974: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:02:32.272056: User: goodbye 
+Log:2020-09-21 16:02:34.075352: System: Good Bye Richard! 
+Log:2020-09-21 16:06:01.310502: User: open logs 
+Log:2020-09-21 16:06:03.150855: System: opening logs.. 
+Log:2020-09-21 16:06:18.011406: System: Sorry, i could not understand 
+Log:2020-09-21 16:07:23.833597: User: open logs 
+Log:2020-09-21 16:07:25.673508: System: opening logs.. 
+Log:2020-09-21 16:07:30.336202: User: exhibit 
+Log:2020-09-21 16:07:34.322425: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:07:39.661598: User: exit 
+Log:2020-09-21 16:07:41.376236: System: Good Bye User! 
+Log:2020-09-21 16:08:07.880954: User: open logs 
+Log:2020-09-21 16:08:09.722757: System: opening logs.. 
+Log:2020-09-21 16:08:15.001468: User: exit 
+Log:2020-09-21 16:08:16.714069: System: Good Bye User! 
+Log:2020-09-21 16:10:37.557919: User: open logs 
+Log:2020-09-21 16:10:49.907274: System: opening logs.. 
+Log:2020-09-21 16:10:57.889885: User: open logs 
+Log:2020-09-21 16:13:54.455710: System: opening logs.. 
+Log:2020-09-21 16:14:09.634060: User: show me logs 
+Log:2020-09-21 16:14:13.569525: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:14:21.348479: User: show logs 
+Log:2020-09-21 16:14:25.283774: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:14:32.416543: User: logs 
+Log:2020-09-21 16:14:36.354648: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:14:52.041692: User: show me logs 
+Log:2020-09-21 16:15:22.275886: User: show me logs 
+Log:2020-09-21 16:15:28.113138: System: opening logs.. 
+Log:2020-09-21 16:15:32.259405: User: show logs 
+Log:2020-09-21 16:15:51.453904: User: Big Show logs 
+Log:2020-09-21 16:23:05.635838: User: show logs 
+Log:2020-09-21 16:23:48.741002: System: opening logs.. 
+Log:2020-09-21 16:24:04.424946: User: show logs 
+Log:2020-09-21 16:25:35.884723: User: show logs 
+Log:2020-09-21 16:25:54.034799: System: opening logs.. 
+Log:2020-09-21 16:26:09.570377: User: show dogs 
+Log:2020-09-21 16:26:14.389646: System: Sorry, i dont understand that! 
+Log:2020-09-21 16:26:22.500827: User: show vlogs 
+Log:2020-09-21 16:26:49.324801: User: show logs 
+Log:2020-09-21 16:28:51.325460: User: show logs 
+Log:2020-09-21 16:28:58.002792: System: opening logs.. 
+Log:2020-09-21 16:29:05.894235: User: hi 
+Log:2020-09-21 16:29:13.746904: User: weather 
+Log:2020-09-21 16:29:16.745381: System: Sorry, i dont understand that! 
+Log:2020-09-21 16:29:21.252189: User: what's the weather 
+Log:2020-09-21 16:29:30.414392: System: This is the weather in brampton today 
+Log:2020-09-21 16:29:38.644596: User: listen 
+Log:2020-09-21 16:30:27.758231: User: show logs 
+Log:2020-09-21 16:31:15.518661: User: show logs 
+Log:2020-09-21 16:31:33.983606: System: opening logs.. 
+Log:2020-09-21 16:31:43.594981: User: say 
+Log:2020-09-21 16:31:54.289461: System: Sorry, i dont understand that! 
+Log:2020-09-21 16:32:03.307397: User: say 
+Log:2020-09-21 16:33:42.061719: User: show logs 
+Log:2020-09-21 16:33:47.073057: System: opening logs.. 
+Log:2020-09-21 16:35:00.203461: User: show logs 
+Log:2020-09-21 16:35:04.135975: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:35:09.493536: User: Affinity one 
+Log:2020-09-21 16:35:13.425826: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:35:23.803541: User: show logs 
+Log:2020-09-21 16:35:27.737943: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 16:37:09.369193: System: Sorry, i could not understand 
+Log:2020-09-21 17:11:50.384353: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:12:19.187886: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:14:36.056702: User: open website Google 
+Log:2020-09-21 17:14:39.053186: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:15:10.801079: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:15:50.889874: User: open website 
+Log:2020-09-21 17:15:53.889819: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:15:58.421988: User: open website Google 
+Log:2020-09-21 17:16:00.375487: System: opening Google.... 
+Log:2020-09-21 17:16:27.808022: User: the word count is equal to that 
+Log:2020-09-21 17:16:31.752765: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 17:19:50.614826: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:21:34.121655: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:23:37.439793: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:24:46.479325: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:25:34.980936: User: open website Google 
+Log:2020-09-21 17:25:36.933353: System: opening Google.... 
+Log:2020-09-21 17:29:17.444909: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:29:45.816328: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:30:32.966102: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:31:15.907182: User: open website Google 
+Log:2020-09-21 17:31:17.848296: System: opening Google.... 
+Log:2020-09-21 17:31:28.690904: User: search website YouTube 
+Log:2020-09-21 17:31:30.782546: System: searching for YouTube 
+Log:2020-09-21 17:32:58.289700: User: open website Google 
+Log:2020-09-21 17:33:00.242397: System: opening Google.... 
+Log:2020-09-21 17:33:06.389513: User: 1 
+Log:2020-09-21 17:33:10.389042: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 17:33:44.405191: User: open website Google 
+Log:2020-09-21 17:33:46.140556: System: opening Google.... 
+Log:2020-09-21 17:35:33.522771: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:36:28.975010: User: open website Google 
+Log:2020-09-21 17:36:30.930621: System: opening Google.... 
+Log:2020-09-21 17:36:36.401869: User: counting 1 
+Log:2020-09-21 17:36:40.334636: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 17:36:44.610381: User: stop listening 
+Log:2020-09-21 17:36:46.478136: System: Listening is off.... 
+Log:2020-09-21 17:40:10.855588: User: open website Google 
+Log:2020-09-21 17:40:12.810379: System: opening Google.... 
+Log:2020-09-21 17:41:24.018896: User: open website Google 
+Log:2020-09-21 17:41:25.971006: System: opening Google.... 
+Log:2020-09-21 17:44:07.945136: User: open website Google 
+Log:2020-09-21 17:44:09.889999: System: opening Google.... 
+Log:2020-09-21 17:44:20.062953: User: the woman was that 
+Log:2020-09-21 17:44:23.990397: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 17:44:34.027442: User: open website Google 
+Log:2020-09-21 17:44:35.761729: System: opening Google.... 
+Log:2020-09-21 17:45:06.889210: User: open website 
+Log:2020-09-21 17:45:09.898297: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:45:34.755652: System: Sorry, i dont understand that! 
+Log:2020-09-21 17:47:14.542506: User: open website Google 
+Log:2020-09-21 17:47:16.496325: System: opening Google.... 
+Log:2020-09-21 17:47:24.440962: User: oh my God 
+Log:2020-09-21 17:47:28.396494: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 17:48:31.903427: User: open website Google 
+Log:2020-09-21 17:48:33.855324: System: opening Google.... 
+Log:2020-09-21 17:49:24.930537: User: open website Google 
+Log:2020-09-21 17:49:26.880253: System: opening Google.... 
+Log:2020-09-21 17:49:36.882582: User: open website YouTube 
+Log:2020-09-21 17:49:38.704242: System: opening YouTube.... 
+Log:2020-09-21 17:49:54.733509: System: Sorry, i could not understand 
+Log:2020-09-21 17:50:28.042452: User: open website Google 
+Log:2020-09-21 17:50:29.990576: System: opening Google.... 
+Log:2020-09-21 17:50:54.383549: System: Sorry, i could not understand 
+Log:2020-09-21 17:51:16.327811: User: open website Google 
+Log:2020-09-21 17:51:18.270470: System: opening Google.... 
+Log:2020-09-21 17:52:37.699345: User: open website Google 
+Log:2020-09-21 17:52:39.652280: System: opening Google.... 
+Log:2020-09-21 18:03:36.943422: System: Sorry, i dont understand that! 
+Log:2020-09-21 18:14:05.625272: System: Sorry, i dont understand that! 
+Log:2020-09-21 18:15:08.181948: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 18:15:16.545617: System: opening Google.... 
+Log:2020-09-21 18:18:10.389841: System: opening Google.... 
+Log:2020-09-21 18:19:24.885453: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 18:20:19.538055: System: opening Google.... 
+Log:2020-09-21 18:20:55.541336: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 18:21:50.923730: System: opening Google.... 
+Log:2020-09-21 18:22:35.735886: System: opening Google.... 
+Log:2020-09-21 18:24:39.492498: System: opening Google.... 
+Log:2020-09-21 18:26:20.761211: System: opening YouTube.... 
+Log:2020-09-21 18:26:55.145649: System: opening Google.... 
+Log:2020-09-21 18:27:26.821108: System: opening Google.... 
+Log:2020-09-21 18:27:56.370060: System: Sorry, i dont understand that! 
+Log:2020-09-21 18:28:36.026280: System: Sorry, i dont understand that! 
+Log:2020-09-21 18:28:58.030249: System: Sorry, i dont understand that! 
+Log:2020-09-21 18:29:37.720580: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 18:32:46.143503: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 18:33:41.823816: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 21:05:00.146935: System: opening Google.... 
+Log:2020-09-21 21:05:57.404183: System: searching for xbox 
+Log:2020-09-21 21:20:08.918564: System: searching for hdmi 
+Log:2020-09-21 21:20:51.327432: System: searching for hdmi 
+Log:2020-09-21 21:21:39.761314: System: Sorry, i didn't get that, please try again. 
+Log:2020-09-21 21:22:24.116966: System: searching for HDMI 
+Log:2020-09-21 21:26:33.337731: System: searching for HDMI 
+Log:2020-09-21 21:27:01.197370: User: open website Google 
+Log:2020-09-21 21:27:03.040058: System: opening Google.... 
+Log:2020-09-21 21:48:09.726006: User: hello 
+Log:2020-09-21 21:48:16.101505: System: Sorry, i dont understand that! 
+Log:2020-09-21 21:50:34.891518: User: ff 
+Log:2020-09-21 21:50:40.374888: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 21:51:31.333268: User: df 
+Log:2020-09-21 21:51:35.152643: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 21:54:41.922742: User: logd 
+Log:2020-09-21 21:54:45.742533: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 21:54:48.757191: User: logs 
+Log:2020-09-21 21:54:52.591584: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 21:54:55.775282: User: show logs 
+Log:2020-09-21 21:54:59.594647: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 21:55:36.378802: User: show logs 
+Log:2020-09-21 21:55:40.200824: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 21:56:12.354272: User: show logs 
+Log:2020-09-21 21:56:30.749100: System: opening logs.. 
+Log:2020-09-21 21:57:33.803135: User: C:/Users/Richard/AppData/Local/Programs/Python/Python38-32/python.exe d:/Desktop/Python/2020/newtxtTOSPeech.py 
+Log:2020-09-21 21:57:50.210951: User: show logs 
+Log:2020-09-21 22:00:53.831842: User: logs 
+Log:2020-09-21 22:00:57.711940: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 22:01:02.983800: User: show logs 
+Log:2020-09-21 22:01:06.840243: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-21 22:05:44.274759: User: showl ogs 
+Log:2020-09-21 22:05:47.313412: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-21 22:05:50.836823: User: showl logs 
+Log:2020-09-21 22:05:55.955397: System: opening logs.. 
+Log:2020-09-22 01:28:49.113695: User: lol 
+Log:2020-09-22 01:38:30.602909: User: lol 
+Log:2020-09-22 01:38:33.529846: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 01:38:41.787922: User: show logs 
+Log:2020-09-22 01:38:45.517546: System: opening logs.. 
+Log:2020-09-22 01:40:17.617309: User: hi 
+Log:2020-09-22 01:40:23.810971: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 01:40:57.840285: User: hi 
+Log:2020-09-22 01:43:23.030480: User: hi 
+Log:2020-09-22 01:44:13.475515: User: hi 
+Log:2020-09-22 01:44:47.934748: User: hi 
+Log:2020-09-22 01:44:51.195769: System: None 
+Log:2020-09-22 01:45:02.233436: User: say 
+Log:2020-09-22 01:45:10.816115: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 01:45:48.375163: User: say 
+Log:2020-09-22 01:45:54.579438: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 01:46:06.964339: User: say 
+Log:2020-09-22 01:46:10.224330: System: None 
+Log:2020-09-22 01:47:31.329869: User: open logs 
+Log:2020-09-22 01:47:37.706753: System: opening logs.. 
+Log:2020-09-22 01:47:44.531957: User: logs 
+Log:2020-09-22 01:47:47.464620: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 01:48:04.703256: User: listen 
+Log:2020-09-22 01:48:19.294965: User: listen 
+Log:2020-09-22 01:48:22.226178: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 01:48:47.154758: User: switch to listen 
+Log:2020-09-22 01:48:49.464322: System: Speak, im listening... 
+Log:2020-09-22 01:49:16.934243: User: listen 
+Log:2020-09-22 01:49:19.864922: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 01:49:22.208910: User: listen 
+Log:2020-09-22 02:17:28.096148: User: Google search  
+Log:2020-09-22 02:17:31.148111: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 02:17:36.103464: User: Google search d 
+Log:2020-09-22 02:17:54.384757: User: Google search yourub 
+Log:2020-09-22 02:17:57.423930: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 02:19:46.808076: User: Google search hello 
+Log:2020-09-22 02:20:32.083852: System: searching for hello 
+Log:2020-09-22 02:21:29.323851: User: google search python  
+Log:2020-09-22 02:21:39.245626: System: searching for python 
+Log:2020-09-22 02:21:43.895259: User: google search python API 
+Log:2020-09-22 02:25:49.102709: System: searching for pythonAPI 
+Log:2020-09-22 02:26:09.830599: User: google search java script 
+Log:2020-09-22 02:27:08.896599: User: google search jaja 
+Log:2020-09-22 02:27:11.941665: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 02:27:20.055865: User: google search jajaj 
+Log:2020-09-22 02:27:36.441339: User: google search java script 
+Log:2020-09-22 02:31:14.072495: User: google search python api 
+Log:2020-09-22 02:31:17.121222: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 02:31:31.245922: User: google search pythonapi 
+Log:2020-09-22 02:32:12.474763: User: google search python api 
+Log:2020-09-22 02:32:15.513676: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 02:33:24.243138: User: google search python api 
+Log:2020-09-22 02:34:06.063258: User: google search python api 
+Log:2020-09-22 02:34:56.574560: User: google search python api 
+Log:2020-09-22 02:35:13.649262: System: searching for pythonapi 
+Log:2020-09-22 02:36:35.997351: User: google search python api 
+Log:2020-09-22 02:38:19.849267: System: searching for google search python api  
+Log:2020-09-22 02:40:21.305881: User: google search python api 
+Log:2020-09-22 02:41:04.693558: System: searching for python api 
+Log:2020-09-22 14:31:22.834942: User: open website Google 
+Log:2020-09-22 14:31:24.858035: System: opening Google.... 
+Log:2020-09-22 14:31:38.494941: User: search 
+Log:2020-09-22 14:31:41.537228: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 14:31:45.932862: User: search website 
+Log:2020-09-22 14:35:34.958797: User: open website 
+Log:2020-09-22 14:35:38.004879: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 14:36:20.866615: User: open website 
+Log:2020-09-22 14:36:23.906237: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 14:36:29.706885: User: open website Google 
+Log:2020-09-22 14:38:08.450243: User: open website 
+Log:2020-09-22 14:38:11.494618: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-22 14:38:18.726629: User: open website Google 
+Log:2020-09-22 14:38:20.756121: System: opening Google.... 
+Log:2020-09-22 14:38:34.390305: User: open website 
+Log:2020-09-22 14:38:48.331699: User: open what state 
+Log:2020-09-22 14:38:52.219818: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-09-22 14:38:55.210712: User: open website 
+Log:2020-09-22 14:40:25.839938: User: open website python 
+Log:2020-09-22 14:40:28.345033: System: what do you want to search? 
+Log:2020-09-22 14:41:17.311673: System: Sorry, i could not understand Error:101 
+Log:2020-09-22 14:47:25.865995: System: 
+System booting.....
+ 
+Log:2020-09-22 14:47:38.164296: System: Sorry, i could not understand Error:101 
+Log:2020-09-22 14:47:43.549038: User: open website Facebook 
+Log:2020-09-22 14:47:46.138282: System: Searching for Facebook 
+Log:2020-09-22 15:00:03.224091: System: 
+System booting.....
+ 
+Log:2020-09-22 15:00:12.622606: User: create project 
+Log:2020-09-22 15:00:27.961401: System: ok 
+Log:2020-09-22 15:02:42.067436: System: 
+System booting.....
+ 
+Log:2020-09-22 15:02:51.641757: User: create project 
+Log:2020-09-22 15:03:06.212513: System: ok 
+Log:2020-09-22 15:03:55.227627: System: Sorry, i could not understand Error:101 
+Log:2020-09-22 15:08:36.754728: System: 
+System booting.....
+ 
+Log:2020-09-22 15:08:45.260603: User: create project 
+Log:2020-09-22 15:08:55.415859: System: ok 
+Log:2020-09-22 15:09:10.116682: System: Sorry, i could not understand Error:101 
+Log:2020-09-23 16:20:22.640682: System: 
+System booting.....
+ 
+Log:2020-09-23 16:20:31.856050: User: open website Google 
+Log:2020-09-23 16:20:33.875662: System: opening Google.... 
+Log:2020-09-23 16:20:40.695894: User: search website Facebook 
+Log:2020-09-23 16:20:43.060007: System: searching for Facebook 
+Log:2020-09-23 16:20:49.839436: User: create project 
+Log:2020-09-23 16:45:57.246034: System: 
+System booting.....
+ 
+Log:2020-09-23 16:46:23.206521: System: Sorry, i could not understand Error:101 
+Log:2020-09-23 16:46:32.600433: User: open website 
+Log:2020-09-23 16:46:37.837124: System: 
+System booting.....
+ 
+Log:2020-09-23 16:46:54.243497: System: Sorry, i could not understand Error:101 
+Log:2020-09-23 16:47:12.856388: System: 
+System booting.....
+ 
+Log:2020-09-23 16:47:17.853860: User: open website Google 
+Log:2020-09-23 16:47:19.865925: System: opening Google.... 
+Log:2020-09-23 16:48:45.590160: System: 
+System booting.....
+ 
+Log:2020-09-23 16:48:50.015472: System: Listening is 'OFF' 
+Log:2020-09-23 16:49:53.674843: System: 
+System booting.....
+ 
+Log:2020-09-23 16:49:58.087458: System: Listening is 'OFF' 
+Log:2020-09-23 16:54:39.672169: System: 
+System booting.....
+ 
+Log:2020-09-23 16:54:44.068421: System: Listening is 'OFF' 
+Log:2020-09-23 16:54:45.943433: User: show logs for today 
+Log:2020-09-23 16:57:23.222549: System: 
+System booting.....
+ 
+Log:2020-09-23 16:57:27.614891: System: Listening is 'OFF' 
+Log:2020-09-23 16:57:27.615884: User: show logs 
+Log:2020-09-23 16:57:30.649568: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-23 16:57:30.669471: System: Listening is 'OFF' 
+Log:2020-09-23 16:57:46.846281: User: show logs for today 
+Log:2020-09-23 16:57:46.869219: System: Listening is 'OFF' 
+Log:2020-09-23 16:58:01.512871: User: C:/Users/Richard/AppData/Local/Programs/Python/Python38-32/python.exe d:/Desktop/Python/2020/newtxtTOSPeech.py 
+Log:2020-09-23 16:58:05.405210: System: 
+System booting.....
+ 
+Log:2020-09-23 16:58:09.790440: System: Listening is 'OFF' 
+Log:2020-09-23 16:58:09.958096: User: show logs for today 
+Log:2020-09-23 16:58:11.399626: System: Listening is 'OFF' 
+Log:2020-09-23 16:58:17.417208: User: show logs for 22 
+Log:2020-09-23 17:00:26.065333: System: 
+System booting.....
+ 
+Log:2020-09-23 17:00:30.474440: System: Listening is 'OFF' 
+Log:2020-09-23 17:00:33.980420: User: show logs for today 
+Log:2020-09-23 17:00:37.007805: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-23 17:00:37.029694: System: Listening is 'OFF' 
+Log:2020-09-23 17:00:51.990246: User: show logs for today 
+Log:2020-09-23 17:01:26.792065: System: 
+System booting.....
+ 
+Log:2020-09-23 17:01:31.179436: System: Listening is 'OFF' 
+Log:2020-09-23 17:01:32.398581: User: show logs for today 
+Log:2020-09-23 17:03:31.142688: System: Listening is 'OFF' 
+Log:2020-09-23 17:03:34.861737: System: 
+System booting.....
+ 
+Log:2020-09-23 17:03:39.247730: System: Listening is 'OFF' 
+Log:2020-09-23 17:04:06.350984: User: show logs for today 
+Log:2020-09-23 17:04:39.909706: System: 
+System booting.....
+ 
+Log:2020-09-23 17:04:44.303583: System: Listening is 'OFF' 
+Log:2020-09-23 17:04:46.407735: User: show logs for today 
+Log:2020-09-23 17:04:49.440725: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-23 17:04:49.463344: System: Listening is 'OFF' 
+Log:2020-09-23 17:04:57.707002: User: show logs for today 
+Log:2020-09-23 17:05:14.559122: System: 
+System booting.....
+ 
+Log:2020-09-23 17:05:18.960466: System: Listening is 'OFF' 
+Log:2020-09-23 17:05:50.009303: System: 
+System booting.....
+ 
+Log:2020-09-23 17:05:54.401794: System: Listening is 'OFF' 
+Log:2020-09-23 17:05:56.656815: User: show logs for today 
+Log:2020-09-23 17:06:46.385263: System: 
+System booting.....
+ 
+Log:2020-09-23 17:06:50.769526: System: Listening is 'OFF' 
+Log:2020-09-23 17:06:57.835301: User: show logs for today 
+Log:2020-09-23 17:07:00.861592: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-23 17:07:00.883453: System: Listening is 'OFF' 
+Log:2020-09-23 17:07:31.617527: System: 
+System booting.....
+ 
+Log:2020-09-23 17:07:36.007178: System: Listening is 'OFF' 
+Log:2020-09-23 17:07:38.287313: User: show logs for today 
+Log:2020-09-23 17:07:46.958952: System: 
+System booting.....
+ 
+Log:2020-09-23 17:07:51.339572: System: Listening is 'OFF' 
+Log:2020-09-23 17:07:51.340569: User: show logs for today 
+Log:2020-09-23 17:08:53.583663: System: 
+System booting.....
+ 
+Log:2020-09-23 17:08:57.965485: System: Listening is 'OFF' 
+Log:2020-09-23 17:08:58.974433: User: show logs for today 
+Log:2020-09-23 17:09:02.001085: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-23 17:09:02.023945: System: Listening is 'OFF' 
+Log:2020-09-23 17:09:22.434100: User: C:/Users/Richard/AppData/Local/Programs/Python/Python38-32/python.exe d:/Desktop/Python/2020/newtxtTOSPeech.py 
+Log:2020-09-23 17:09:27.302715: System: 
+System booting.....
+ 
+Log:2020-09-23 17:09:31.687960: System: Listening is 'OFF' 
+Log:2020-09-23 17:09:34.831548: User: show logs for today 
+Log:2020-09-23 17:10:06.456593: System: 
+System booting.....
+ 
+Log:2020-09-23 17:10:10.834442: System: Listening is 'OFF' 
+Log:2020-09-23 17:10:11.981268: User: show logs for today 
+Log:2020-09-23 17:10:15.007599: System: Sorry, i dont understand that! Error:102 
+Log:2020-09-23 17:10:15.030389: System: Listening is 'OFF' 
+Log:2020-09-23 17:10:39.809767: User: C:/Users/Richard/AppData/Local/Programs/Python/Python38-32/python.exe d:/Desktop/Python/2020/newtxtTOSPeech.py 
+Log:2020-09-23 17:10:43.807161: System: 
+System booting.....
+ 
+Log:2020-09-23 17:10:48.190267: System: Listening is 'OFF' 
+Log:2020-09-23 17:10:48.192262: User: show logs for today 
+Log:2020-12-06 12:00:22.645111: System: 
+System booting.....
+ 
+Log:2020-12-06 12:00:28.956166: System: Listening is 'OFF' 
+Log:2020-12-06 12:01:26.359624: System: 
+System booting.....
+ 
+Log:2020-12-06 12:01:30.781174: System: Listening is 'OFF' 
+Log:2020-12-06 12:02:19.102686: User: C:/Users/Richard/AppData/Local/Programs/Python/Python38-32/python.exe d:/Desktop/Python/2020/newtxtTOSPeech.py 
+Log:2020-12-06 12:02:24.025161: System: 
+System booting.....
+ 
+Log:2020-12-06 12:02:26.925165: System: Listening is 'OFF' 
+Log:2020-12-06 12:03:24.083186: User: C:/Users/Richard/AppData/Local/Programs/Python/Python38-32/python.exe d:/Desktop/Python/2020/newtxtTOSPeech.py 
+Log:2020-12-06 12:03:30.709536: System: 
+System booting.....
+ 
+Log:2020-12-06 12:03:33.605073: System: Listening is 'ON' 
+Log:2020-12-06 12:03:38.370270: User: what's the weather like 
+Log:2020-12-06 12:03:42.330302: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:03:42.361174: System: Listening is 'ON' 
+Log:2020-12-06 12:03:48.308240: User: hi 
+Log:2020-12-06 12:03:51.741192: System: None 
+Log:2020-12-06 12:03:51.766145: System: Listening is 'ON' 
+Log:2020-12-06 12:03:54.660743: User: what's the time 
+Log:2020-12-06 12:03:58.607279: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:03:58.638489: System: Listening is 'ON' 
+Log:2020-12-06 12:04:07.764052: User: what's the weather 
+Log:2020-12-06 12:04:19.699287: System: This is the weather in Brampton today 
+Log:2020-12-06 12:04:21.128399: System: Listening is 'ON' 
+Log:2020-12-06 12:04:43.379338: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:04:43.407044: System: Listening is 'ON' 
+Log:2020-12-06 12:07:01.364492: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:07:07.919081: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:07:42.221507: System: 
+System booting.....
+ 
+Log:2020-12-06 12:07:45.378216: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:08:28.202499: System: 
+System booting.....
+ 
+Log:2020-12-06 12:08:31.357211: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:08:48.027029: System: 
+System booting.....
+ 
+Log:2020-12-06 12:08:51.145218: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:09:12.620081: System: 
+System booting.....
+ 
+Log:2020-12-06 12:09:15.973301: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:10:39.614871: System: 
+System booting.....
+ 
+Log:2020-12-06 12:10:42.816421: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:10:49.280790: System: 
+System booting.....
+ 
+Log:2020-12-06 12:10:52.150300: System: Listening is 'ON' 
+Log:2020-12-06 12:11:05.866770: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:11:05.914586: System: Listening is 'ON' 
+Log:2020-12-06 12:20:29.323168: System: 
+System booting.....
+ 
+Log:2020-12-06 12:20:32.295145: System: Listening is 'ON' 
+Log:2020-12-06 12:20:36.519115: User: testing 
+Log:2020-12-06 12:20:40.429278: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:20:40.475163: System: Listening is 'ON' 
+Log:2020-12-06 12:20:43.069068: User: open Google 
+Log:2020-12-06 12:20:46.997146: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:20:47.028070: System: Listening is 'ON' 
+Log:2020-12-06 12:20:50.603690: User: open website Google 
+Log:2020-12-06 12:20:52.803646: System: opening Google.... 
+Log:2020-12-06 12:20:52.830574: System: Listening is 'ON' 
+Log:2020-12-06 12:21:02.724168: User: open website YouTube 
+Log:2020-12-06 12:21:04.662105: System: opening YouTube.... 
+Log:2020-12-06 12:21:04.690068: System: Listening is 'ON' 
+Log:2020-12-06 12:21:16.195634: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:21:16.227247: System: Listening is 'ON' 
+Log:2020-12-06 12:21:19.498329: User: what's the Facebook 
+Log:2020-12-06 12:21:23.433378: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:21:23.484113: System: Listening is 'ON' 
+Log:2020-12-06 12:21:32.103232: User: open website Facebook 
+Log:2020-12-06 12:21:34.573011: System: Searching for Facebook 
+Log:2020-12-06 12:21:34.598942: System: Listening is 'ON' 
+Log:2020-12-06 12:21:45.952267: User: open Facebook open Facebook 
+Log:2020-12-06 12:21:49.881325: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:21:49.935912: System: Listening is 'ON' 
+Log:2020-12-06 12:21:59.244973: User: search Facebook 
+Log:2020-12-06 12:22:03.152402: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:22:03.177320: System: Listening is 'ON' 
+Log:2020-12-06 12:22:10.291752: User: weather 
+Log:2020-12-06 12:22:16.974391: System: City not found.. 
+Log:2020-12-06 12:22:17.007145: System: Listening is 'ON' 
+Log:2020-12-06 12:22:46.223737: System: 
+System booting.....
+ 
+Log:2020-12-06 12:22:49.147101: System: Listening is 'ON' 
+Log:2020-12-06 12:22:53.991343: User: search website Facebook 
+Log:2020-12-06 12:22:56.707943: System: searching for Facebook 
+Log:2020-12-06 12:22:56.731879: System: Listening is 'ON' 
+Log:2020-12-06 12:23:03.641327: User: search website YouTube 
+Log:2020-12-06 12:23:05.883096: System: searching for YouTube 
+Log:2020-12-06 12:23:05.909029: System: Listening is 'ON' 
+Log:2020-12-06 12:23:17.342270: User: search website 
+Log:2020-12-06 12:23:20.451459: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:23:20.482184: System: Listening is 'ON' 
+Log:2020-12-06 12:23:24.647065: User: Earth website Wikipedia 
+Log:2020-12-06 12:23:28.562368: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:23:28.595076: System: Listening is 'ON' 
+Log:2020-12-06 12:23:55.892952: System: 
+System booting.....
+ 
+Log:2020-12-06 12:23:58.785107: System: Listening is 'ON' 
+Log:2020-12-06 12:24:03.103106: User: Google search coronavirus 
+Log:2020-12-06 12:24:07.010242: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:24:07.064119: System: Listening is 'ON' 
+Log:2020-12-06 12:24:15.086714: System: 
+System booting.....
+ 
+Log:2020-12-06 12:24:17.934579: System: Listening is 'ON' 
+Log:2020-12-06 12:24:23.410254: User: Google search 
+Log:2020-12-06 12:24:26.560282: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:24:26.614145: System: Listening is 'ON' 
+Log:2020-12-06 12:24:30.927660: User: Google search covid-19 
+Log:2020-12-06 12:24:39.889646: System: 
+System booting.....
+ 
+Log:2020-12-06 12:24:42.761066: System: Listening is 'ON' 
+Log:2020-12-06 12:24:48.882248: User: Google search 
+Log:2020-12-06 12:24:51.988030: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 12:24:52.013231: System: Listening is 'ON' 
+Log:2020-12-06 12:25:11.644234: User: I need to work on this 
+Log:2020-12-06 12:25:15.571250: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:25:15.615075: System: Listening is 'ON' 
+Log:2020-12-06 12:34:05.148492: System: 
+System booting.....
+ 
+Log:2020-12-06 12:34:08.064177: System: Listening is 'ON' 
+Log:2020-12-06 12:34:15.966308: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:34:15.990954: System: Listening is 'ON' 
+Log:2020-12-06 12:38:05.852162: System: 
+System booting.....
+ 
+Log:2020-12-06 12:38:08.759992: System: Listening is 'ON' 
+Log:2020-12-06 12:38:21.842228: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:38:21.891105: System: Listening is 'ON' 
+Log:2020-12-06 12:38:25.960105: User: hey Google 
+Log:2020-12-06 12:38:29.861304: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:38:29.904114: System: Listening is 'ON' 
+Log:2020-12-06 12:39:22.213683: System: 
+System booting.....
+ 
+Log:2020-12-06 12:39:25.111062: System: Listening is 'ON' 
+Log:2020-12-06 12:39:30.640250: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:39:30.666168: System: Listening is 'ON' 
+Log:2020-12-06 12:39:38.184749: System: 
+System booting.....
+ 
+Log:2020-12-06 12:39:41.063133: System: Listening is 'ON' 
+Log:2020-12-06 12:39:56.143933: System: 
+System booting.....
+ 
+Log:2020-12-06 12:39:58.997657: System: Listening is 'ON' 
+Log:2020-12-06 12:40:01.768084: User: weather 
+Log:2020-12-06 12:47:12.193873: System: 
+System booting.....
+ 
+Log:2020-12-06 12:47:15.148248: System: Listening is 'ON' 
+Log:2020-12-06 12:47:19.844149: System: Listening is 'ON' 
+Log:2020-12-06 12:47:23.440022: System: Listening is 'ON' 
+Log:2020-12-06 12:47:27.674202: System: Listening is 'ON' 
+Log:2020-12-06 12:47:32.095092: System: Listening is 'ON' 
+Log:2020-12-06 12:47:42.522312: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:47:42.545840: System: Listening is 'ON' 
+Log:2020-12-06 12:48:29.042809: System: 
+System booting.....
+ 
+Log:2020-12-06 12:48:31.954018: System: Listening is 'ON' 
+Log:2020-12-06 12:48:37.820043: System: Listening is 'ON' 
+Log:2020-12-06 12:48:43.522242: System: Listening is 'ON' 
+Log:2020-12-06 12:48:51.310287: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:48:51.354612: System: Listening is 'ON' 
+Log:2020-12-06 12:49:09.986154: System: 
+System booting.....
+ 
+Log:2020-12-06 12:49:12.871116: System: Listening is 'ON' 
+Log:2020-12-06 12:49:17.789305: User: open website Google 
+Log:2020-12-06 12:49:19.921639: System: opening Google.... 
+Log:2020-12-06 12:49:19.946573: System: Listening is 'ON' 
+Log:2020-12-06 12:49:43.524329: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:49:43.580138: System: Listening is 'ON' 
+Log:2020-12-06 12:49:48.040303: User: Stickman 
+Log:2020-12-06 12:49:52.001326: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:49:52.057131: System: Listening is 'ON' 
+Log:2020-12-06 12:49:55.893618: User: with the command 
+Log:2020-12-06 12:49:59.811263: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 12:49:59.865067: System: Listening is 'ON' 
+Log:2020-12-06 12:50:04.602282: User: switch to command 
+Log:2020-12-06 12:50:06.517336: System: Listening is off.... 
+Log:2020-12-06 12:50:06.564731: System: Listening is 'OFF' 
+Log:2020-12-06 12:56:40.842564: System: 
+System booting.....
+ 
+Log:2020-12-06 12:56:43.799138: System: Listening is 'ON' 
+Log:2020-12-06 12:56:47.438815: User: Hey listen 
+Log:2020-12-06 12:56:47.493288: System: Listening is 'ON' 
+Log:2020-12-06 12:56:58.699105: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 12:56:58.745969: System: Listening is 'ON' 
+Log:2020-12-06 12:59:03.185713: System: 
+System booting.....
+ 
+Log:2020-12-06 12:59:06.106487: System: Listening is 'ON' 
+Log:2020-12-06 12:59:09.571966: User: Hey listen 
+Log:2020-12-06 12:59:09.612049: System: Listening is 'ON' 
+Log:2020-12-06 12:59:52.774600: User: open website Google 
+Log:2020-12-06 12:59:52.815486: System: Listening is 'ON' 
+Log:2020-12-06 13:00:02.396098: System: 
+System booting.....
+ 
+Log:2020-12-06 13:00:05.263636: System: Listening is 'ON' 
+Log:2020-12-06 13:00:59.581584: System: 
+System booting.....
+ 
+Log:2020-12-06 13:01:02.487513: System: Listening is 'ON' 
+Log:2020-12-06 13:01:07.848382: User: a listing on Google 
+Log:2020-12-06 13:01:07.898170: System: Listening is 'ON' 
+Log:2020-12-06 13:01:16.233397: User: Ellison open website Google 
+Log:2020-12-06 13:01:16.318976: System: Listening is 'ON' 
+Log:2020-12-06 13:01:24.194283: User: 1 
+Log:2020-12-06 13:01:24.265681: System: Listening is 'ON' 
+Log:2020-12-06 13:01:32.425313: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:01:32.449223: System: Listening is 'ON' 
+Log:2020-12-06 13:02:04.601689: System: 
+System booting.....
+ 
+Log:2020-12-06 13:02:07.586175: System: Listening is 'ON' 
+Log:2020-12-06 13:02:18.639282: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:02:18.669150: System: Listening is 'ON' 
+Log:2020-12-06 13:02:23.926267: User: Hey listen open website Google 
+Log:2020-12-06 13:02:24.012834: System: Listening is 'ON' 
+Log:2020-12-06 13:02:31.727269: User: Houston open website Google 
+Log:2020-12-06 13:02:31.813040: System: Listening is 'ON' 
+Log:2020-12-06 13:02:38.412198: User: Hey listen open website Google 
+Log:2020-12-06 13:02:38.460141: System: Listening is 'ON' 
+Log:2020-12-06 13:02:54.480133: User: undo everything man Greta scratch project and then 
+Log:2020-12-06 13:02:54.572883: System: Listening is 'ON' 
+Log:2020-12-06 13:03:14.758305: System: 
+System booting.....
+ 
+Log:2020-12-06 13:03:17.640164: System: Listening is 'ON' 
+Log:2020-12-06 13:03:21.387266: User: open website Google 
+Log:2020-12-06 13:03:23.548848: System: opening Google.... 
+Log:2020-12-06 13:03:23.572818: System: Listening is 'ON' 
+Log:2020-12-06 13:03:30.127341: User: credit card fraud 
+Log:2020-12-06 13:03:34.070575: System: Sorry, i didn't get that, please try again. Error:100 
+Log:2020-12-06 13:03:34.094535: System: Listening is 'ON' 
+Log:2020-12-06 13:07:48.502410: System: 
+System booting.....
+ 
+Log:2020-12-06 13:18:31.226396: System: 
+System booting.....
+ 
+Log:2020-12-06 13:18:37.291273: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 13:19:25.294837: System: 
+System booting.....
+ 
+Log:2020-12-06 13:27:08.012245: System: 
+System booting.....
+ 
+Log:2020-12-06 13:27:23.220214: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:29:35.806867: System: 
+System booting.....
+ 
+Log:2020-12-06 13:33:03.904877: System: 
+System booting.....
+ 
+Log:2020-12-06 13:33:25.839819: System: 
+System booting.....
+ 
+Log:2020-12-06 13:36:45.491400: System: 
+System booting.....
+ 
+Log:2020-12-06 13:36:58.088738: System: 
+System booting.....
+ 
+Log:2020-12-06 13:37:33.482982: System: 
+System booting.....
+ 
+Log:2020-12-06 13:39:43.422691: System: 
+System booting.....
+ 
+Log:2020-12-06 13:39:55.376527: System: 
+System booting.....
+ 
+Log:2020-12-06 13:40:10.730588: System: 
+System booting.....
+ 
+Log:2020-12-06 13:40:24.569865: System: 
+System booting.....
+ 
+Log:2020-12-06 13:40:45.272619: System: 
+System booting.....
+ 
+Log:2020-12-06 13:43:38.135390: System: 
+System booting.....
+ 
+Log:2020-12-06 13:43:49.375276: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 13:44:10.337756: System: 
+System booting.....
+ 
+Log:2020-12-06 13:44:21.511348: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 13:45:23.124095: System: 
+System booting.....
+ 
+Log:2020-12-06 13:45:34.341143: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:45:37.146871: System: 
+System booting.....
+ 
+Log:2020-12-06 13:51:18.763642: System: 
+System booting.....
+ 
+Log:2020-12-06 13:51:40.275969: System: 
+System booting.....
+ 
+Log:2020-12-06 13:51:58.995298: System: 
+System booting.....
+ 
+Log:2020-12-06 13:52:21.369295: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:52:25.634856: System: 
+System booting.....
+ 
+Log:2020-12-06 13:53:21.919277: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:55:31.121515: System: 
+System booting.....
+ 
+Log:2020-12-06 13:57:11.534705: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:57:14.537680: System: 
+System booting.....
+ 
+Log:2020-12-06 13:57:46.063278: System: 
+System booting.....
+ 
+Log:2020-12-06 13:58:04.040953: System: 
+System booting.....
+ 
+Log:2020-12-06 13:58:28.902566: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 13:58:39.467358: System: 
+System booting.....
+ 
+Log:2020-12-06 13:59:58.040443: System: 
+System booting.....
+ 
+Log:2020-12-06 14:00:29.395290: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:02:56.720809: System: 
+System booting.....
+ 
+Log:2020-12-06 14:03:16.333270: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:03:47.563753: System: 
+System booting.....
+ 
+Log:2020-12-06 14:04:34.941900: System: 
+System booting.....
+ 
+Log:2020-12-06 14:04:46.252232: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:08:50.422607: System: 
+System booting.....
+ 
+Log:2020-12-06 14:09:08.810325: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 14:11:52.061222: System: 
+System booting.....
+ 
+Log:2020-12-06 14:12:45.709965: System: 
+System booting.....
+ 
+Log:2020-12-06 14:15:43.468704: System: 
+System booting.....
+ 
+Log:2020-12-06 14:15:56.829258: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 14:16:33.724052: System: 
+System booting.....
+ 
+Log:2020-12-06 14:16:48.541141: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 14:20:16.930057: System: 
+System booting.....
+ 
+Log:2020-12-06 14:20:30.849274: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 14:21:38.936110: System: 
+System booting.....
+ 
+Log:2020-12-06 14:26:45.769976: System: 
+System booting.....
+ 
+Log:2020-12-06 14:29:36.501533: System: 
+System booting.....
+ 
+Log:2020-12-06 14:32:00.962611: System: 
+System booting.....
+ 
+Log:2020-12-06 14:32:10.627282: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:32:33.700652: System: 
+System booting.....
+ 
+Log:2020-12-06 14:33:17.620907: System: 
+System booting.....
+ 
+Log:2020-12-06 14:34:22.647181: System: 
+System booting.....
+ 
+Log:2020-12-06 14:38:35.507980: System: 
+System booting.....
+ 
+Log:2020-12-06 14:39:21.264450: System: 
+System booting.....
+ 
+Log:2020-12-06 14:39:30.914263: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:40:03.849106: System: 
+System booting.....
+ 
+Log:2020-12-06 14:40:13.232278: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:44:44.314492: System: 
+System booting.....
+ 
+Log:2020-12-06 14:46:44.876276: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:49:05.554473: System: 
+System booting.....
+ 
+Log:2020-12-06 14:49:44.835128: System: 
+System booting.....
+ 
+Log:2020-12-06 14:51:33.397608: System: 
+System booting.....
+ 
+Log:2020-12-06 14:52:19.620143: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 14:54:44.727958: System: 
+System booting.....
+ 
+Log:2020-12-06 14:54:59.571164: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 14:55:31.038078: System: 
+System booting.....
+ 
+Log:2020-12-06 14:55:52.879475: System: 
+System booting.....
+ 
+Log:2020-12-06 14:56:03.578903: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:59:09.889414: System: 
+System booting.....
+ 
+Log:2020-12-06 14:59:17.494215: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:59:29.959068: System: 
+System booting.....
+ 
+Log:2020-12-06 14:59:37.551231: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 14:59:48.198093: System: 
+System booting.....
+ 
+Log:2020-12-06 14:59:55.723268: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:03:27.285782: System: 
+System booting.....
+ 
+Log:2020-12-06 15:03:34.963298: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:03:43.761027: System: 
+System booting.....
+ 
+Log:2020-12-06 15:03:51.303404: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:03:55.707305: System: 
+System booting.....
+ 
+Log:2020-12-06 15:04:03.221266: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:04:48.000280: System: 
+System booting.....
+ 
+Log:2020-12-06 15:04:55.651747: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:04:58.394063: System: 
+System booting.....
+ 
+Log:2020-12-06 15:05:05.923083: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:05:08.637119: System: 
+System booting.....
+ 
+Log:2020-12-06 15:05:16.084296: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:05:26.664066: System: 
+System booting.....
+ 
+Log:2020-12-06 15:05:34.143293: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:05:51.198651: System: 
+System booting.....
+ 
+Log:2020-12-06 15:05:58.843758: System: Sorry, i dont understand that! Error:102 
+Log:2020-12-06 15:06:52.392035: System: 
+System booting.....
+ 
+Log:2020-12-06 15:07:00.013517: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:07:13.666708: System: 
+System booting.....
+ 
+Log:2020-12-06 15:07:21.281222: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:07:28.545139: System: 
+System booting.....
+ 
+Log:2020-12-06 15:07:36.100060: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:07:45.753835: System: 
+System booting.....
+ 
+Log:2020-12-06 15:07:59.766176: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:09:25.631744: System: 
+System booting.....
+ 
+Log:2020-12-06 15:10:05.840067: System: Sorry, i could not understand Error:101 
+Log:2020-12-06 15:10:42.331943: System: 
+System booting.....
+ 
+Log:2020-12-06 15:10:51.507274: System:   Error:101 
+Log:2020-12-06 15:12:53.750247: System: 
+System booting.....
+ 
+Log:2020-12-06 15:13:01.981301: System:   Error:101 
+Log:2020-12-06 15:13:25.599655: System: 
+System booting.....
+ 
+Log:2020-12-06 15:13:34.762702: System: 
+System booting.....
+ 
+Log:2020-12-06 15:13:45.559188: System:   Error:101 
+Log:2020-12-06 15:17:44.304226: System: 
+System booting.....
+ 
+Log:2020-12-06 15:17:54.241374: System:   Error:101 
+Log:2020-12-06 15:19:38.556228: System: 
+System booting.....
+ 
+Log:2020-12-06 15:19:52.573287: System:   Error:101 
+Log:2020-12-06 15:23:18.607453: System: 
+System booting.....
+ 
+Log:2020-12-06 15:23:30.157229: System:   Error:101 
+Log:2020-12-06 15:23:42.673261: System: 
+System booting.....
+ 
+Log:2020-12-06 15:23:54.964250: System:   Error:101 
+Log:2020-12-06 15:24:11.930236: System: 
+System booting.....
+ 
+Log:2020-12-06 15:24:22.197285: System:   Error:101 
+Log:2020-12-06 15:24:38.284403: System: 
+System booting.....
+ 
+Log:2020-12-06 15:24:45.999287: System:   Error:101 
+Log:2020-12-06 15:25:09.702229: System: 
+System booting.....
+ 
+Log:2020-12-06 15:28:11.866184: System: 
+System booting.....
+ 
+Log:2020-12-06 15:28:19.149479: System:   Error:101 

@@ -1,0 +1,5 @@
+{'active': 18836, 'recovered': 155901, 'deaths': 9666, 'confirmed': 184403}
+{'recovered': 155901, 'active': 18836, 'deaths': 9666, 'confirmed': 184403}
+{'confirmed': 184403, 'active': 18836, 'recovered': 155901, 'deaths': 9666}
+{'confirmed': 184403, 'recovered': 155901, 'deaths': 9666, 'active': 18836}
+{'deaths': 12633, 'confirmed': 414748, 'recovered': 329998, 'active': 72117}

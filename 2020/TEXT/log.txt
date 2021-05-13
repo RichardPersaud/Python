@@ -1,0 +1,25 @@
+Log: User: open Google 
+Log: System: Sorry, i dont understand that! 
+Log: User: open website Google 
+Log: System: Sorry, i dont understand that! 
+Log: User: open website Google 
+Log: System: Sorry, i dont understand that! 
+Log: User: close 
+Log: System: Sorry, i dont understand that! 
+Log:2020-09-21 16:18:52.726128: User: show love 
+Log:2020-09-21 16:19:03.278985: System: opening logs.. 
+Log:2020-09-21 16:19:07.150944: User: open. 
+Log:2020-09-21 16:19:10.141925: System: Sorry, i dont understand that! 
+Log:2020-09-21 16:19:13.882392: User: open logs 
+Log:2020-09-22 02:12:44.684247: User: hi 
+Log:2020-09-22 02:12:48.036298: System: None 
+Log:2020-09-22 02:12:53.235748: User: show logs 
+Log:2020-09-22 02:13:01.082288: System: opening logs.. 
+Log:2020-09-22 02:13:21.250375: User: search website YouTube 
+Log:2020-09-22 02:13:23.631595: System: searching for YouTube 
+Log:2020-09-22 02:13:49.692162: User: Google search Python API 
+Log:2020-09-25 15:36:57.417051: System: 
+System booting.....
+ 
+Log:2020-09-25 15:37:08.474535: System: Listening is 'OFF' 
+Log:2020-09-25 15:37:18.223339: User: create project 
